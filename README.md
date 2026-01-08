@@ -54,6 +54,12 @@
   <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/>
   </a>
+
+  <!-- ASP.NET MVC -->
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet-original.svg" alt="aspnet-mvc" width="50" height="50"/>
+</a>
+  
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anasiddiqui29&show_icons=true&locale=en&layout=compact" alt="anasiddiqui29" /></p>
