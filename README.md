@@ -62,5 +62,7 @@
   
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anasiddiqui29&show_icons=true&locale=en&layout=compact" alt="anasiddiqui29" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anasiddiqui29&show_icons=true&locale=en&layout=compact" alt="anasiddiqui29" /></p> -->
+
+<img src="https://metrics.lecoq.io/anasiddiqui29?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FKarachi">
 
