@@ -57,7 +57,7 @@
 
   <!-- ASP.NET MVC -->
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet-original.svg" alt="aspnet-mvc" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="aspnet-core" width="50" height="50"/>
 </a>
   
 </p>
