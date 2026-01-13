@@ -55,6 +55,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/>
   </a>
 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="50" height="50"/>
+  </a>
+
   <!-- ASP.NET MVC -->
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="aspnet-core" width="50" height="50"/>
